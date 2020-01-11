@@ -14,3 +14,6 @@ Results in time saving for verge number of equations.
 
 Inspired by algorithm by Gergel V.P.  
 C++ code in http://www.hpcc.unn.ru/mskurs/RUS/PPT/CODES/ParallelGauss.html#main
+
+
+Feel free to contact me at kranthibalusu@gmail.com for future code enhancment. 
